@@ -4,7 +4,7 @@ Front End:
 HTML, CSS, VanillaJS, Bootstrap, Lightbox.js
 
 Back End: 
-Python, Django, PostgresQL
+Python, Django, PostgreSQL
 
 Deployed to Digital Ocean with Gunicorn & Nginx.
 
