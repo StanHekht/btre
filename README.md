@@ -1,7 +1,10 @@
 # Real Estate Listings Application.
 
-Front End: HTML, CSS, VanillaJS, Bootstrap, Lightbox.js
-Back-End: Python, Django, PostgresQL
+Front End:
+HTML, CSS, VanillaJS, Bootstrap, Lightbox.js
+
+Back End: 
+Python, Django, PostgresQL
 
 Deployed to Digital Ocean with Gunicorn & Nginx.
 
