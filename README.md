@@ -1,4 +1,4 @@
-Real Estate Listings Application.
+# Real Estate Listings Application.
 
 Front End: HTML, CSS, VanillaJS, Bootstrap, Lightbox.js
 Back-End: Python, Django, PostgresQL
